@@ -1,0 +1,18 @@
+    
+
+
+
+
+    contact Management App work flow
+    ----------------------------------
+
+    1.create a new project
+    2.run project
+    3.remove all contents from appcomponent.html file
+    4.configure external liberies : bootstrap,fontawesome,goofle fonts in index.html
+    5.create component needed for this website
+         .all-contacts
+         .view-contacts
+         .edit-contacts
+         .add-contacts
+    6.Setup path for all components
